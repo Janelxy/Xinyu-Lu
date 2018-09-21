@@ -49,11 +49,11 @@ _Lab of Molecular and bioinformatics, Nanjing Tech University, China_
 
 **Teaching Assistant** Sept. 2016 – Jun. 2017. _Cell Biology and Genetics Lab, Shanghai Jiao Tong University, China._
 
-	- Guided students to perform experiments (Feulgen reaction, subculture of CHO cells, Genetic traits of fruit flies. etc.)
+- Guided students to perform experiments (Feulgen reaction, subculture of CHO cells, Genetic traits of fruit flies. etc.)
 
 **Technical Expert** Jul. 2017 – Aug. 2017. _Shanghai Daodo Biotechnology CO., LTD. Shanghai, China._
 
-	- Evaluated the treatment effect of microbial agents. Optimized the multiple microbial proportions.
+- Evaluated the treatment effect of microbial agents. Optimized the multiple microbial proportions.
   
 ## Education
 
